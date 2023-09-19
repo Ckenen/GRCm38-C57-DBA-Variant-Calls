@@ -6,6 +6,8 @@ Generate available variant calls for C57BL/6NJ and DBA/2J heterozygosis (GRCh38)
 
 The Mouse Genomes Project (MGP) uses next generation sequencing technologies to sequence the genomes of key laboratory mouse strains. Here, we integrated the variant calls (SNPs) from C57BL/6NJ and DBA/2J for the analysis of filial generation.
 
+MGP: https://www.sanger.ac.uk/data/mouse-genomes-project/
+
 ## Workflow
 
 Outputs:
